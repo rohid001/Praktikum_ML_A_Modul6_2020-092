@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock-Paper-Scissors Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Prediction Result</h2>
+        <p>Image: {{ filename }}</p>
+        <p>Predicted Class: {{ predicted_class }}</p>
+        <p>Accuracy: {{ accuracy }}</p>
+        <p>Elapsed Time: {{ elapsed_time }} seconds</p>
+        <img src="{{ url_for('static', filename='uploads/' + filename) }}" alt="Predicted Image">
+        <a href="/">Go back to Home</a>
+    </div>
+</body>
+</html>
