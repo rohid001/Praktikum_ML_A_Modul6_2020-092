@@ -43,4 +43,6 @@ Splitting Dataset : Training = 70%, Validation = 25%, dan Testing = 5%
 
 ## Local Deployment
 
+  ![Screenshot 2023-12-12 051937](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/b0087dcc-b960-4610-a532-352d7760d5ed)
 
+  
