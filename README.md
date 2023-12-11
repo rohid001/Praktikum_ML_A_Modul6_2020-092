@@ -38,4 +38,9 @@ Splitting Dataset : Training = 70%, Validation = 25%, dan Testing = 5%
 ## Predict Data
 
 - Hasil Predict Data :
-  
+
+  ![predict](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/678e4c61-6c5f-44a3-9018-b3fde00d880f)
+
+## Local Deployment
+
+
