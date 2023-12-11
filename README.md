@@ -20,4 +20,6 @@ Splitting Dataset : Training = 70%, Validation = 25%, dan Testing = 5%
 - Modelling Model:
 
   Summary model:
-  
+
+  ![Screenshot 2023-12-12 045948](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/245f7d6f-796a-49c7-bd22-64df3e817517)
+
