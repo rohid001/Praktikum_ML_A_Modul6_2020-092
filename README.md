@@ -25,3 +25,5 @@ Splitting Dataset : Training = 70%, Validation = 25%, dan Testing = 5%
 
   Graph Loss dan Accuracy Model
   
+  ![loss dan accuracy](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/1bbf3552-4979-4430-81d7-c09c25fa3ffd)
+
