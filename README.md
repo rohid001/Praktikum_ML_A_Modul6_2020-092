@@ -7,3 +7,4 @@ Aktivitas dalam project ini adalah melakukan klasifikasi rock, paper, dan scisso
 Preprocessing yang digunakan: Augmentasi, Resizing, Rotation, dan Horizontal Flip
 
 Model yang digunakan: Convolutional Neural Network 2D dengan 15 layer seperti pada gambar dibawah ini:
+![model_CNN h5](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/007febca-1ad3-4106-90cf-9d09faa47951)
