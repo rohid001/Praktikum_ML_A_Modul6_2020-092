@@ -33,3 +33,9 @@ Splitting Dataset : Training = 70%, Validation = 25%, dan Testing = 5%
   ![confusion matrix](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/d8d5bccb-15b2-4c79-96fc-fda943bbde11)
 
   
+  ![Screenshot 2023-12-12 051009](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/ca5b8e7b-bcb8-4b22-b3b4-8f2718b99850)
+
+## Predict Data
+
+- Hasil Predict Data :
+  
