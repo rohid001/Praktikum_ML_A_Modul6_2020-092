@@ -1,0 +1,12 @@
+Tensorflow
+numpy
+zipfile
+slitfolders
+cv2
+matlotlib
+scikit-learn
+os
+random
+flask
+time
+werkzeug.utils
