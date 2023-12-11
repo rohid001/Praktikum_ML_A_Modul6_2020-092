@@ -48,4 +48,8 @@ Splitting Dataset : Training = 70%, Validation = 25%, dan Testing = 5%
   ![Screenshot 2023-12-12 052002](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/a7a93d3e-b3c1-4e90-9580-64b99d551782)
 
 ## 👩‍💻👩‍💻 Authors
-- [@Rohid]
+- [@Rohid001](https://github.com/rohid001)
+
+<a href="https://github.com/anuraghazra/github-readme-stats/actions">
+  <img alt="Language Python" src="https://img.shields.io/badge/Language-Python-blue" />
+</a>
