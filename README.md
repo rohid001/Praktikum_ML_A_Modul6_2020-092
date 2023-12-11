@@ -23,6 +23,9 @@ Splitting Dataset : Training = 70%, Validation = 25%, dan Testing = 5%
 
   ![Screenshot 2023-12-12 045948](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/245f7d6f-796a-49c7-bd22-64df3e817517)
 
+  Evaluation Matrix Model
+  
+
   Graph Loss dan Accuracy Model
   
   ![loss dan accuracy](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/1bbf3552-4979-4430-81d7-c09c25fa3ffd)
