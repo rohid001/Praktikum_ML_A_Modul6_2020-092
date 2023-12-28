@@ -16,7 +16,7 @@ Gambar yang digunakan adalah representasi rock, paper, dan scissors dalam bentuk
 Splitting Dataset : Training = 70%, Validation = 25%, dan Testing = 5%
 
 ## Preprocessing dan Modelling
-- **Preprocessing Model : rescale = 1./255, validation split = 0.5, shear range = 0.2, zoom range = 0.2, rotation range = 20, horizontal flip = True
+- Preprocessing Model : rescale = 1./255, validation split = 0.5, shear range = 0.2, zoom range = 0.2, rotation range = 20, horizontal flip = True
 - Modelling Model:
 
   Summary model:
