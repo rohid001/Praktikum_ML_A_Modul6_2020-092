@@ -45,8 +45,8 @@ Splitting Dataset : Training = 70%, Validation = 25%, dan Testing = 5%
 
   ![Screenshot 2023-12-28 191008](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/bd86e6da-faa4-41b9-b92e-25b50de4463c)
 
-  ![Screenshot 2023-12-12 052002](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/a7a93d3e-b3c1-4e90-9580-64b99d551782)
-
+  ![Screenshot 2023-12-28 191027](https://github.com/rohid001/Praktikum_ML_A_Modul6_2020-092/assets/98394099/566a4fc5-fb34-4f1b-b351-53d3935b9d50)
+  
 ## 👩‍💻👩‍💻 Authors
 - [@Rohid001](https://github.com/rohid001)
 
