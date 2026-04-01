@@ -1,4 +1,4 @@
-# ⚡️ Klasifikasi dan Preediksi Rock-Paper-Scissors ⚡️
+# ⚡️ Klasifikasi dan Prediksi Rock-Paper-Scissors ⚡️
 
 ## Overview Arsitektur Model
 Aktivitas dalam project ini adalah melakukan klasifikasi rock, paper, dan scissors
